@@ -1,14 +1,9 @@
 Package: fenceR
-Title: What the Package Does (One Line, Title Case)
+Title: fenceR
 Version: 0.0.0.9000
-Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: MIT + file LICENSE
+Authors@R: person('Daniel', 'Braby', email = 'daniel.braby@forestresearch.gov.uk', role = c('cre', 'aut'))
+Description: Analyse Survey of Round Fencing Manufacturers in R.
+License: {{ License }}
+URL: http://github.com/fr-dan/fenceR
+BugReports: http://github.com/fr-dan/fenceR
 Encoding: UTF-8
-Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.2.3
-Suggests: 
-    testthat (>= 3.0.0)
-Config/testthat/edition: 3
